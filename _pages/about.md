@@ -19,5 +19,7 @@ My current research focuses on interaction and collaboration paradigms in immers
 **Scholarships awards and disctintions**
 
 :trophy: PhD Outstanding Thesis Award for Academic Course 2021 – 2022. Universidad Carlos III de Madrid, December 2022.
+
 :trophy: Accesít Jesús Lores for the paper “Exploring Interaction Mechanism for Map interfaces in Virtual Reality Environments”. Asociación Interacción Persona Ordenador España, September 2018.
+
 :trophy: Full scholarship for the M.Sc. Program: “Master Universitario en Ciencia y Tecnología Informática (Fundación ENDESA)”. Fundación Carolina España, July 2016.
