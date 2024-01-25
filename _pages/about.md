@@ -18,4 +18,4 @@ My current research focuses on interaction and collaboration paradigms in immers
 
 **Scholarships and awards**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andresSantos9)](https://github.com/ryo-ma/github-profile-trophy)
+:trophy:
