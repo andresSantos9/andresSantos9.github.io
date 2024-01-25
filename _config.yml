@@ -83,11 +83,11 @@ author:
   name             : "Andrés"
   avatar           : "IMG_7536.jpg"
   bio              : "Teaching and Research Assistant with Ph.D."
-  location         : "Madrid"
+  location         : #"Madrid"
   employer         : "Universidad Carlos III de Madrid"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wLFCis0AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "asantostorres@sigchi.org"
   researchgate     :  "https://www.researchgate.net/profile/Andres-Santos-Torres"
   uri              :
   bitbucket        :
