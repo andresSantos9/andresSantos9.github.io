@@ -16,7 +16,7 @@ Andrés was a Teaching Assistant at Escuela Politécnica Nacional during the aca
 
 My current research focuses on interaction and collaboration paradigms in immersive  environments. One of the main affordances of immersive technologies is the ability to generate in humans the illusion of being in a 3D interactive environment, where they can also interact with other people no matter where they are. However, the implementation of such new technologies raises some challenges that need to be considered when approaching the design and development of virtual scenarios for collaboration. My research has been focused on identifying usable and efficient approaches that users can take advantage of such technologies. 
 
-**Scholarships awards and disctintions**
+**Scholarships awards and distinctions**
 
 :trophy: PhD Outstanding Thesis Award for Academic Course 2021 – 2022. Universidad Carlos III de Madrid, December 2022.
 
