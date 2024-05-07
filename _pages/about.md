@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Andrés Santos-Torres is a Teaching and Research Assistant with Ph.D. at the Department of Computer Science and Engineering at Universidad Carlos III de Madrid. He received a degree in Electronic Engineering and Networks from Escuela Politécnica Nacional del Ecuador (2014). He also received an M.Sc. degree in Computer Science and Technology (2017) and a Ph.D. degree in Computer Science and Technology (2022), both degrees from Universidad Carlos III de Madrid. 
+Andrés Santos-Torres is a Researcher at Vicomtech in the Digital Media Research group. His research interest falls in the intersection of Human-Computer Interaction, Computer Supported Collaborative Work, and Data Visualization. Previously, Andres was a Teaching and Research Assistant with a Ph.D. at the Department of Computer Science and Engineering at Universidad Carlos III de Madrid. He received an Electronic Engineering and Networks degree from Escuela Politécnica Nacional del Ecuador (2014). He also received an M.Sc. degree in Computer Science and Technology (2017) and a Ph.D. degree in Computer Science and Technology (2022) from Universidad Carlos III de Madrid. 
 
-Andrés was a Teaching Assistant at Escuela Politécnica Nacional during the academic course 2015/2016. In 2016, He received a Full scholarship from Fundación Carolina, Spain to do his M.Sc. degree. He has been a member of the Lab DEI research group with a predoctoral fellow contract (2018 – 2022) and as a research and teaching assistant (2022 – present). Andrés also was a research visitor at the Embodied Visualisation Lab at Monash University, Australia (2023).
+Andrés was a Teaching Assistant at Escuela Politécnica Nacional during the academic year 2015/2016. In 2016, he received a Full scholarship from Fundación Carolina, Spain, to do his M.Sc. degree. He has been a member of the Lab DEI research group with a predoctoral fellow contract (2018 – 2022) and as a research and teaching assistant (2022—present). Andrés also was a research visitor at the Embodied Visualisation Lab at Monash University, Australia (2023).
 
 **Research Interests**
 
-My current research focuses on interaction and collaboration paradigms in immersive  environments. One of the main affordances of immersive technologies is the ability to generate in humans the illusion of being in a 3D interactive environment, where they can also interact with other people no matter where they are. However, the implementation of such new technologies raises some challenges that need to be considered when approaching the design and development of virtual scenarios for collaboration. My research has been focused on identifying usable and efficient approaches that users can take advantage of such technologies. 
+My current research focuses on interaction and collaboration paradigms in immersive  environments. One of the main affordances of immersive technologies is the ability to give humans the illusion of being in a 3D interactive environment, where they can interact with other people no matter where they are. However, implementing such new technologies raises some challenges that need to be considered when designing and developing virtual scenarios for collaboration. My research has focused on identifying usable and efficient approaches for users to take advantage of such technologies. 
 
 **Scholarships awards and distinctions**
 
 :trophy: PhD Outstanding Thesis Award for Academic Course 2021 – 2022. Universidad Carlos III de Madrid, December 2022.
 
-:trophy: Accesít Jesús Lores for the paper “Exploring Interaction Mechanism for Map Interfaces in Virtual Reality Environments”. Asociación Interacción Persona Ordenador España, September 2018.
+:trophy: Accesít Jesús Lores for the paper “Exploring Interaction Mechanism for Map Interfaces in Virtual Reality Environments.” Asociación Interacción Persona Ordenador España, September 2018.
 
 :trophy: Full scholarship for the M.Sc. Program: “Master Universitario en Ciencia y Tecnología Informática (Fundación ENDESA)”. Fundación Carolina España, July 2016.
