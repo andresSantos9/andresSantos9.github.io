@@ -14,7 +14,7 @@ Andres is a former member of the Interactive Systems Group (DEI Lab) from Univer
 
 **Research Interests**
 
-Andres currently works on the research and development of immersive experiences using virtual and augmented reality technologies. My research interests lie at the intersection of Human-Computer Interaction, Computer-Supported Collaborative Work, and Data Visualization. The goal of my research is to augment human capacities through the use of immersive technologies.
+My research interests lie at the intersection of Human-Computer Interaction, Computer-Supported Collaborative Work, and Data Visualization. The goal of my research is to augment human capacities through the use of immersive technologies.
 
 **Scholarships awards and distinctions**
 
