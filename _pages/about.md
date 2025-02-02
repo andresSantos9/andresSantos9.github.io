@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Andrés Santos-Torres is a Researcher at Vicomtech in the Digital Media Research group. He received a Ph.D. in Computer Science and Technology (2022) from Universidad Carlos III de Madrid, an M.Sc. degree in Computer Science and Technology (2017), and an Electronic Engineering and Networks degree from Escuela Politécnica Nacional del Ecuador (2014).
+Andrés Santos-Torres is a Researcher at Vicomtech in the Digital Media Research group and an Adjunct Lecturer at Deusto University. He received a Ph.D. in Computer Science and Technology (2022) from Universidad Carlos III de Madrid, an M.Sc. degree in Computer Science and Technology (2017), and an Electronic Engineering and Networks degree from Escuela Politécnica Nacional del Ecuador (2014).
 
-Andres is a former member of the Interactive Systems Group (DEI Lab) from Universidad Carlos III de Madrid (2017-204). Before, Andres was a Teaching Assistant at Escuela Politécnica Nacional during the academic year 2015/2016. In 2016, he received a Full scholarship from Fundación Carolina, Spain, to do his M.Sc. degree. Andrés also was a research visitor at the Embodied Visualisation Lab at Monash University, Australia (2023).
+Andres is a former Interactive Systems Group (DEI Lab) member from Universidad Carlos III de Madrid (2017-204). Before, Andres was a Teaching Assistant at Escuela Politécnica Nacional during the academic year 2015/2016. In 2016, he received a Full scholarship from Fundación Carolina, Spain, to do his M.Sc. degree. Andrés also was a research visitor at the Embodied Visualisation Lab at Monash University, Australia (2023).
 
 **Research Interests**
 
